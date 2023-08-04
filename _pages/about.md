@@ -22,7 +22,7 @@ My research interest includes deep generative models and their applications in h
  
 
 # 📖 Educations
-- *2019.09-2023.08(now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi
+- *2019.09-2023.08 (now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi
 - *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. 
 - *2012.09 - 2016.06*, B.S. in applied physics, Taiyuan Normal University, Shanxi. 
 
