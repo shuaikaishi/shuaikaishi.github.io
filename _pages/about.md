@@ -21,7 +21,10 @@ My research interest includes deep generative models and their applications in h
 
  
 
-
+# 📖 Educations
+- *2019.09-2023.08(now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi
+- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. 
+- *2012.09 - 2016.06*, B.S. in applied physics, Taiyuan Normal University, Shanxi. 
 
 
 # 📝 Publications 
@@ -60,10 +63,7 @@ My research interest includes deep generative models and their applications in h
 
 
 
-# 📖 Educations
-- *2019.09-2023.08(now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi
-- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. 
-- *2012.09 - 2016.06*, B.S. in applied physics, Taiyuan Normal University, Shanxi. 
+
 
 # 💬 Talks
 - *2023.07*, "Efficient Blind Hyperspectral Unmixing with Global Spatial Information based on Swin Transformer", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena Convention Center, Pasadena, California, 2023
