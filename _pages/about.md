@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He received the M.S. degree in physics from [Institute of Precision Optical Engineering](https://ipoe.tongji.edu.cn/en/), [School of Physics Science and Engineering](https://physics.tongji.edu.cn/En/Content/77) Tongji University, Shanghai, China, in 2019. He is currently
-pursuing the Ph.D. degree with [Center of Intelligent Acoustics and Immersive Communications](https://ciaic.org/index.html),  Northwestern Polytechnical University, Xi’an, China.
+He received the M.S. degree in physics from [Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/), [School of Physics Science and Engineering](https://physics.tongji.edu.cn/En/Content/77) Tongji University, Shanghai, China, in 2019. He is currently
+pursuing the Ph.D. degree with [Center of Intelligent Acoustics and Immersive Communications (CIAIC)](https://ciaic.org/index.html),  Northwestern Polytechnical University, Xi’an, China.
 His research interest includes deep generative models and their applications in hyperspectral image processing, particularly, in data unmixing and fusion.
 
  
