@@ -53,7 +53,7 @@ My research interest includes deep generative models and their applications in h
 
 - Jinlong Zhang, **Shuaikai Shi**, Hongfei Jiao and Xinbin Cheng, “Analytical Mode Matching in Stacked Subwavelength Gratings”, _Acta Optica Sinica_, 2020 (Chinese publication)
 
-- Jinlong Zhang, **Shuaikai Shi**, Hongfei Jiao, Xiaochuan Ji, Zhanshan Wang, Xinbin Cheng, “Ultra-broadband reflector using double-layer subwavelength gratings, _Photonics Research_”, 2020
+- Jinlong Zhang, **Shuaikai Shi**, Hongfei Jiao, Xiaochuan Ji, Zhanshan Wang, Xinbin Cheng, “[Ultra-broadband reflector using double-layer subwavelength gratings](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-3-426&id=427988), _Photonics Research_”, 2020
 
 - Jinlong Zhang, Han Wu, Igor V. Kozhevnikov, **Shuaikai Shi**, Xinbin Cheng, Zhanshan Wang, “[Interference suppression of light backscattering through oblique deposition of a layered reflecting coating: bi-layer on a substrate](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-11-15262&id=412576)”, _Optics express_, 2019  
 
