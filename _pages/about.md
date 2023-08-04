@@ -29,9 +29,9 @@ My research interest includes deep generative models and their applications in h
 
 # 📝 Publications 
 
-- **Shuaikai Shi**, Lijun Zhang, Yoann Altmann and Jie, Chen, ''Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency,'' submitted to _IEEE Transactions on Neural Networks and Learning Systems_ [CODE](https://github.com/shuaikaishi/CycFusion)
+- **Shuaikai Shi**, Lijun Zhang, Yoann Altmann and Jie, Chen, ''Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency,'' submitted to _IEEE Transactions on Neural Networks and Learning Systems_ [[CODE]](https://github.com/shuaikaishi/CycFusion)
 
-- **Shuaikai Shi**, Lijun Zhang and Jie, Chen, ''Hyperspectral and Multispectral Image Fusion Using the Conditional Denoising Diffusion Probabilistic Model,'' submitted to _IEEE Transactions on Geoscience and Remote Sensing_  [CODE](https://github.com/shuaikaishi/DDPMFus)
+- **Shuaikai Shi**, Lijun Zhang and Jie, Chen, ''Hyperspectral and Multispectral Image Fusion Using the Conditional Denoising Diffusion Probabilistic Model,'' submitted to _IEEE Transactions on Geoscience and Remote Sensing_  [[CODE]](https://github.com/shuaikaishi/DDPMFus)
 
 - ``IGARSS 2023`` Yun Wang, **Shuaikai Shi**, Jie Chen, “Efficient Blind Hyperspectral Unmixing with Global Spatial Information based on Swin Transformer”, _IEEE International Geoscience and Remote Sensing Symposium_, 2023  
 
@@ -39,9 +39,9 @@ My research interest includes deep generative models and their applications in h
 
 - Longbin Yan, Min Zhao, Shumin Liu, **Shuaikai Shi**, Jie Chen, “[Cascaded transformer U-net for image restoration](https://www.sciencedirect.com/science/article/pii/S0165168422004418)”, _Signal Processing_, 2023
 
-- ``IEEE TGRS`` **Shuaikai Shi**, Lijun Zhang, Yoann Altmann, Jie Chen, “[Deep Generative Model for Spatial–Spectral Unmixing With Multiple Endmember Priors](https://ieeexplore.ieee.org/document/9759362)”, _IEEE Transactions on Geoscience and Remote Sensing_, 2022 [CODE](https://github.com/shuaikaishi/DGMSSU)
+- ``IEEE TGRS`` **Shuaikai Shi**, Lijun Zhang, Yoann Altmann, Jie Chen, “[Deep Generative Model for Spatial–Spectral Unmixing With Multiple Endmember Priors](https://ieeexplore.ieee.org/document/9759362)”, _IEEE Transactions on Geoscience and Remote Sensing_, 2022 [[CODE]](https://github.com/shuaikaishi/DGMSSU)
 
-- ``IEEE TGRS`` **Shuaikai Shi**, Min Zhao, Lijun Zhang, Yoann Altmann, Jie Chen, “[Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability](https://ieeexplore.ieee.org/document/9583297)”, _IEEE Transactions on Geoscience and Remote Sensing_, 2022 [CODE](https://github.com/shuaikaishi/PGMSU)
+- ``IEEE TGRS`` **Shuaikai Shi**, Min Zhao, Lijun Zhang, Yoann Altmann, Jie Chen, “[Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability](https://ieeexplore.ieee.org/document/9583297)”, _IEEE Transactions on Geoscience and Remote Sensing_, 2022 [[CODE]](https://github.com/shuaikaishi/PGMSU)
 
 - ``IEEE TGRS`` Min Zhao, **Shuaikai Shi**, Jie Chen, Nicolas Dobigeon, “[A 3-D-CNN framework for hyperspectral unmixing with spectral variability](https://ieeexplore.ieee.org/document/9674908)”, _IEEE Transactions on Geoscience and Remote Sensing_, 2022
 
@@ -49,7 +49,7 @@ My research interest includes deep generative models and their applications in h
 
 - ``IGARSS 2022`` Xiaoli Yang, Min Zhao, **Shuaikai Shi**, Jie Chen, “[Constrained Energy Minimization with a DNN Detector](https://ieeexplore.ieee.org/document/9884688)”, _IEEE International Geoscience and Remote Sensing Symposium_, 2022
 
-- `ICASSP 2021` **Shuaikai Shi**, Min Zhao, Lijun Zhang, Jie Chen, “[Variational autoencoders for hyperspectral unmixing with endmember variability](https://ieeexplore.ieee.org/document/9414940)”, _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2021  [CODE](https://github.com/shuaikaishi/PGMSU)
+- `ICASSP 2021` **Shuaikai Shi**, Min Zhao, Lijun Zhang, Jie Chen, “[Variational autoencoders for hyperspectral unmixing with endmember variability](https://ieeexplore.ieee.org/document/9414940)”, _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2021  [[CODE]](https://github.com/shuaikaishi/PGMSU)
 
 - Jinlong Zhang, **Shuaikai Shi**, Hongfei Jiao and Xinbin Cheng, “[Analytical Mode Matching in Stacked Subwavelength Gratings](https://www.opticsjournal.net/Articles/OJfdead0eda44b4cb8/Abstract)”, _Acta Optica Sinica_, 2020 (Chinese publication)
 
