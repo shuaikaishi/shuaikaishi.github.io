@@ -29,7 +29,7 @@ My research interest includes deep generative models and their applications in h
 
 # 📝 Publications 
 
-- **Shuaikai Shi**, Lijun Zhang, Yoann Altmann and Jie, Chen, ''Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency,'' submitted to _IEEE Transactions on Neural Networks and Learning Systems_ [[CODE]](https://github.com/shuaikaishi/CycFusion)
+- **Shuaikai Shi**, Lijun Zhang, Yoann Altmann and Jie, Chen, ''Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency,'' submitted to _IEEE Transactions on Neural Networks and Learning Systems_ [[**CODE**]](https://github.com/shuaikaishi/CycFusion)
 
 - **Shuaikai Shi**, Lijun Zhang and Jie, Chen, ''Hyperspectral and Multispectral Image Fusion Using the Conditional Denoising Diffusion Probabilistic Model,'' submitted to _IEEE Transactions on Geoscience and Remote Sensing_  [[CODE]](https://github.com/shuaikaishi/DDPMFus)
 
