@@ -68,7 +68,7 @@ His research interest includes deep generative models and their applications in 
 
 
 # 💬 Talks
-- *2023.07*, "Efficient Blind Hyperspectral Unmixing with Global Spatial Information based on Swin Transformer", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena Convention Center, Pasadena, California, USA, 2023
-- *2021.06*, "Variational autoencoders for hyperspectral unmixing with endmember variability", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Ontario, Canada (online video presentation), 2021
-- *2018.05*, "Sub-wavelength dielectric gratings polarizers for high power laser application", SVC TechCon Conference, Gaylord Palms Resort and Convention Center, Orlando, Florida, USA, May 5-10, 2018
+- ``IGARSS 2023`` *2023.07*, "[Efficient Blind Hyperspectral Unmixing with Global Spatial Information based on Swin Transformer](https://2023.ieeeigarss.org/view_paper.php?PaperNum=2328)", IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena Convention Center, Pasadena, California, USA, 2023
+- ``ICASSP 2021`` *2021.06*, "[Variational autoencoders for hyperspectral unmixing with endmember variability](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/Papers/ViewPaper83b9.html?PaperNum=4085)", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Ontario, Canada (online video presentation), 2021
+- *2018.05*, "Sub-wavelength dielectric gratings polarizers for high power laser application", [SVC TechCon Conference](https://www.svc.org/), Gaylord Palms Resort and Convention Center, Orlando, Florida, USA, May 5-10, 2018
 
