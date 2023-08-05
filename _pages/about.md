@@ -25,7 +25,7 @@ His research interest includes deep generative models and their applications in 
 
 # 📖 Educations
 - *2019.09 - 2023.08 (now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi (advisors: [Jie Chen](http://www.jie-chen.com/) and [Lijun Zhang](https://teacher.nwpu.edu.cn/2011010112.html))
-- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. (advisor: [Jinlong Zhang](https://ipoe.tongji.edu.cn/info/1051/1700.htm))
+- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. (advisor: [Jinlong Zhang](https://ipoe.tongji.edu.cn/en/info/1511/1702.htm))
 - *2012.09 - 2016.06*, B.S. in applied physics, Taiyuan Normal University, Shanxi. 
 
 
