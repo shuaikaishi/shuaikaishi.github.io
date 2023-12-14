@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He received the M.S. degree in physics from [Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/), [School of Physics Science and Engineering](https://physics.tongji.edu.cn/En/Content/77), Tongji University, Shanghai, China, in 2019. He is currently
-pursuing the Ph.D. degree with [Center of Intelligent Acoustics and Immersive Communications (CIAIC)](https://ciaic.org/index.html),  Northwestern Polytechnical University, Xi’an, China.
+He received the M.S. degree in physics from [Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/) ([Lab Head: [Prof. Xinbin Cheng](https://scholar.google.com/citations?user=Ee4x85wAAAAJ&hl=en)]), Tongji University, Shanghai, China, in 2019. He is currently
+pursuing the Ph.D. degree with [Center of Intelligent Acoustics and Immersive Communications (CIAIC)](https://ciaic.org/index.html) (Lab Head: [Prof. Jingdong Chen](https://scholar.google.com/citations?hl=en&user=hWAy1jcAAAAJ)),  Northwestern Polytechnical University, Xi’an, China.
 His research interest includes deep generative models and their applications in hyperspectral image processing, particularly, in spectral unmixing and hyperspectral/multispectral image fusion.
 
  
 
 # 📖 Educations
-- *2019.09 - 2023.08 (now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi (advisors: [Jie Chen](http://www.jie-chen.com/) and [Lijun Zhang](https://teacher.nwpu.edu.cn/2011010112.html))
-- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. (advisor: [Jinlong Zhang](https://ipoe.tongji.edu.cn/en/info/1511/1702.htm))
+- *2019.09 - 2023.08 (now)*, PhD candidate in hyperspectral data processing, Northwestern Polytechnical University, Shaanxi (advisors: [Prof. Jie Chen](http://www.jie-chen.com/) and [Prof. Lijun Zhang](https://teacher.nwpu.edu.cn/2011010112.html))
+- *2016.09 - 2019.06*, M.S. in physics, Tongji University, Shanghai. (advisor: [Prof. Jinlong Zhang](https://ipoe.tongji.edu.cn/en/info/1511/1702.htm))
 - *2012.09 - 2016.06*, B.S. in applied physics, Taiyuan Normal University, Shanxi. 
 
 
